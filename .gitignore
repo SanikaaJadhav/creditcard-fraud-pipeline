@@ -1,0 +1,7 @@
+venv/
+data/creditcard.csv
+data/fraud.db
+models/data_splits.pkl
+__pycache__/
+*.pyc
+.DS_Store
